@@ -7,7 +7,7 @@
 
 ### Description
 
-So you think your new PIII is fast? well test it on this particle benchmarker. And enjoy the show while you're at it. (Now accually benchmarks your system)
+So you think your new PIII is fast? well test it on this particle benchmarker. And enjoy the show while you're at it. (Now actually benchmarks your system)
  
 ### More Info
  
